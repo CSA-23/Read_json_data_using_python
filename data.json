@@ -1,0 +1,19 @@
+{
+    "emp_details":[
+        {
+            "emp_name": "Sachin",
+            "email": "sachin.tendulkar@gmail.com",
+            "job_profile": "Manager"
+        },
+        {
+            "emp_name": "Virat",
+            "email": "virat.kohli@gmail.com",
+            "job_profile": "Team Leader"
+        },
+        {
+            "emp_name": "Rohith",
+            "email": "rohith.sharma@gmail.com",
+            "job_profile": "Developer"
+        }
+    ]
+}
